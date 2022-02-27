@@ -27,7 +27,7 @@ Practicing Vanilla JavaScript With Awesome ZTM course Projects
 
 ## Navigation Nation  
 ![Animated-Navigation](https://i.imgur.com/OX6JrO7.png)
-- [Github](https://github.com/Dz-LevelZero/Animated-Nav) | [Live Demo](dz-levelzero.github.io/animated-nav/)
+- [Github](https://github.com/Dz-LevelZero/Animated-Nav) | [Live Demo](https://dz-levelzero.github.io/Animated-Nav/)
 
 ## Koran Player 
 ![Koran-Player](https://i.imgur.com/F6xueEK.png)
