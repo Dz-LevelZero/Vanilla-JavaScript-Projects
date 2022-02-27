@@ -2,8 +2,8 @@
 Practicing Vanilla JavaScript With Awesome ZTM course Projects 
 
 ## Quote Generator 
-![Quote-Generator](https://i.imgur.com/Rr7ed44.png)
-- [Github](https://github.com/Dz-LevelZero/Quote-Generator) |  [Live Demo](https://dz-levelzero.github.io/quote-generator/)
+![Quote-Generator](https://i.imgur.com/Rr7ed44.png) 
+- [Github](https://github.com/Dz-LevelZero/Quote-Generator) |  [Live Demo](https://dz-levelzero.github.io/Quote-Generator/)
 
 ## Infinity Scroll  
 ![Infinity Scroll](https://i.imgur.com/WDdHLRa.png)
