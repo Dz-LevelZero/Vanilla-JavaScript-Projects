@@ -1,5 +1,5 @@
 # Vanilla JavaScript Projects
-Practicing Vanilla JavaScript With Awesome ZTM course Projects 
+Practicing Vanilla JavaScript With Awesome ZTM course Projects .
 
 ## Quote Generator 
 ![Quote-Generator](https://i.imgur.com/Rr7ed44.png) 
